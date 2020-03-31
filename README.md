@@ -1,0 +1,2 @@
+# rs-rust
+SBATCH SQUEUE
